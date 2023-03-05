@@ -127,7 +127,7 @@ public class MainActivity extends AppCompatActivity {
             tv_token.setText(token);
         });
 
-        getSupportActionBar().setTitle("ToDoist");
+        getSupportActionBar().setTitle("Todoist");
     }
 
     @Override
