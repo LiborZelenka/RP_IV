@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RP_IV</string>
+
+    <!-- LoginActivity -->
+    <string name="login_button">LOGIN</string>
+    <string name="username_prompt">Username:</string>
+    <string name="password_prompt">Password:</string>
+    <string name="sign_up_button">SIGN UP</string>
+    <string name="sign_up_prompt">Are you new here?</string>
+
+    <!-- DB -->
+    <string name="APIusername">user</string>
+    <string name="APIpassword">milujuromanku</string>
+</resources>
